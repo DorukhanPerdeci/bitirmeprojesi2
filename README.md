@@ -1,4 +1,6 @@
 OgrenciKayitSistemi.sln
+21430070029/Dorukhan Perdeci
+
 ⚡ Kullanılan Araçlar ve Mimariler
 Teknoloji / Mimari	Görevi
 🧱 ASP.NET Core MVC	Sunum katmanı
